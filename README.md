@@ -268,5 +268,5 @@ Bank_loan/
 
 ## 👤 14. Author & License
 
-- **Author**: [Your Name / Data Science Team]
+- **Author**: Abhijit Dutta
 - **License**: This project is licensed under the [MIT License](LICENSE).
