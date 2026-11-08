@@ -144,7 +144,9 @@ Data cleaning and metric aggregations were executed in SQL (`financial_loan.sql`
 
 ## 📈 7. Power BI Dashboard Architecture
 
-The Power BI dashboard (`Bank_loan_dashboard.pbix.zip`) is structured into three dedicated interactive pages:
+![Power BI Dashboard Overview](https://github.com/abhidutta-analyst/credit_risk_analysis/blob/main/Overview.jpg)
+
+The Power BI dashboard (`Bank_loan_dashboard.pbit`) is structured into three dedicated interactive pages:
 
 - **Page 1: Summary View**
   - Features KPI cards for Total Loan Applications, Funded Amount, Amount Received, Interest Rate, and DTI.
