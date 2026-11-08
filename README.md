@@ -31,6 +31,8 @@
 
 The **Bank Loan Analytics & Credit Risk Prediction Platform** is an end-to-end data analytics and machine learning solution designed to monitor, evaluate, and predict loan portfolio performance. Financial institutions face constant exposure to credit defaults; hence, robust tracking of lending KPIs, historical trends, and predictive risk scoring is essential for optimizing profitability and mitigating default losses.
 
+[[https://github.com/abhidutta-analyst/credit_risk_analysis/blob/main/Overview.jpg]]
+
 This project delivers:
 - **An Interactive Power BI Dashboard (`.pbix`)**: Providing executive-level visibility into loan volume, funded amounts, cash inflows, regional risk distribution, and good vs. bad loan performance across three comprehensive pages.
 - **A Predictive Credit Risk Machine Learning Model (`.ipynb`)**: Built using Python and `scikit-learn`, utilizing Logistic Regression and Random Forest classifiers to predict loan default (`Charged Off`) based on borrower financial profiles and loan attributes.
